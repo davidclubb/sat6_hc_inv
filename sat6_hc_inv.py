@@ -10,7 +10,7 @@ except ImportError:
 HOST = 'satellite6.example.com' # Change this
 USERNAME = 'username'           # Change this
 PASSWORD = 'password'           # Change this
-ORG_ID=1                        # Change this
+ORG_ID = 1                      # Change this
 
 SAT_API = 'https://' + HOST + '/api/v2/'
 KATELLO_API = 'https://' + HOST + '/katello/api/'
