@@ -65,8 +65,7 @@ def display_all_hosts_in_host_collections(org_id):
     print json.dumps(hostlist, indent=4, sort_keys=True)
 
 def main():
-    org_id = 1 
-    display_all_hosts_in_host_collections(org_id)
+    display_all_hosts_in_host_collections(ORG_ID)
 
 if __name__ == "__main__":
     main()
