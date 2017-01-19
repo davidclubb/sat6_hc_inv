@@ -13,12 +13,12 @@ Example output:
     "Host collection 1": [
         "host1.example.com", 
         "host2.example.com"
-        "host3.eample.com"
+        "host3.example.com"
     ], 
     "Host collection 2": [
         "host3.example.com", 
         "host4.example.com"
-        "host5.eample.com"
+        "host5.example.com"
     ]
 }
 
